@@ -56,7 +56,7 @@
 
 - > ### `Some`times I make things.
 - > ### `Some`times they work.
-- > ### [`Some` more about me](https://bio.link/serAnkii/)
+- > ### [`Some` more about me](https://heylink.me/harish_semwal/)
 
 ---
 
